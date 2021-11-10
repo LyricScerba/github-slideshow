@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to my slideshow!"
 ---
-Hellow
+Gyattt
 Use the left arrow to go back!
